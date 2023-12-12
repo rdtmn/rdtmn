@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **data Science Projects**
+- 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 🤝 I’m looking for help with **starting at Data Science area**
+- 🤝 I’m looking for help with **Starting at Data Science area**
 
 - 📫 How to reach me **rodrigodtmn@hotmail.com**
 
